@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1590522359 source:/home/noach/Desktop/3D_Diffusion/main.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<string>
+	<cmath>
+
